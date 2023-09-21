@@ -1,0 +1,94 @@
+h1 {
+    background-color: yellow;
+    } 
+ 
+.macbook {
+background-color:aquamarine; 
+} 
+.macbook {color: yellow;}
+.user { background-color: olivedrab; } 
+.user {color: aquamarine;}
+
+
+.power {
+ background-color: violet; 
+ }  
+ .power {color: blueviolet;}
+.first
+{ background-color: dodgerblue; } 
+.first { color:orangered; 
+}
+.pro 
+{background-color: red; 
+}
+.pro {color: violet; }   .header {
+    text-align: center;
+    font-size: 40px;
+    font-family: Fantasy;
+    color: red;
+    transition: color 0.3s;
+}
+
+.header:hover {
+    color: skyblue;
+}
+
+
+.main {
+    text-align: center;
+}
+
+
+.footer {
+    text-align: center;
+}
+
+.tooltip {
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+}
+
+.tooltip-text {
+    visibility: hidden;
+    width: 120px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px;
+    position: absolute;
+    z-index: 1;
+    top: -30px;
+    left: 110%;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.tooltip:hover .tooltip-text {
+    visibility: visible;
+    opacity: 1;
+}  .header {
+    text-align: center;
+    font-size: 40px;
+    font-family: Fantasy;
+    color: red;
+    animation: colorChange 0.5s ease-in-out forwards;
+}
+
+.header:hover {
+    animation: colorChangeHover 0.5s ease-in-out forwards;
+}
+ .header:colorChange {
+    0% {
+        color: red;
+    }
+    100% {
+        color: skyblue;
+.header:colorChange {
+    0% 
+        color: red;
+    }
+    100% {
+        color: skyblue;
+    }

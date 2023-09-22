@@ -77,19 +77,17 @@ background-color:aquamarine;
 }
 
 .header:hover {
-    animation: colorChangeHover 0.5s ease-in-out forwards;
-}
- .header:colorChange {
-    0% {
-        color: red;
+     color: skyblue;
+  } 
+  center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     }
-    100% {
-    color: skyblue;
-.header:colorChange {
-    0% 
-        color: red;
-    }
-    100% {
-        color: skyblue;
-    }
-    <link rel="stylesheet" type="text/index.html" >
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+        }

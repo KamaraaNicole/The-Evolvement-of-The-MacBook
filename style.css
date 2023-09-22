@@ -84,7 +84,7 @@ background-color:aquamarine;
         color: red;
     }
     100% {
-        color: skyblue;
+    color: skyblue;
 .header:colorChange {
     0% 
         color: red;
@@ -92,3 +92,4 @@ background-color:aquamarine;
     100% {
         color: skyblue;
     }
+    <link rel="stylesheet" type="text/index.html" >
